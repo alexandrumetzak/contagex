@@ -99,7 +99,30 @@ Formularul folosește **Formspree** ca să trimită mesajele pe e-mailul directo
 
 ---
 
-## 🚀 Publicare (hosting)
+## 🌐 Site live (GitHub Pages)
+
+Site-ul este publicat automat prin GitHub Pages:
+
+- **Repo:** https://github.com/alexandrumetzak/contagex
+- **URL public (accesibil de pe orice dispozitiv):** https://alexandrumetzak.github.io/contagex/
+
+**Cum actualizezi site-ul live:** orice modificare urcată pe branch-ul `main`
+declanșează automat re-publicarea (în ~1-2 minute):
+
+```bash
+# după ce ai editat fișierele (și, dacă e cazul, ai rulat: python3 build.py)
+git add -A
+git commit -m "Descriere modificare"
+git push
+```
+
+> Căile interne sunt relative tocmai pentru ca site-ul să funcționeze corect
+> servit din subfolderul `/contagex/`. Când vei conecta domeniul `contagex.ro`,
+> site-ul va funcționa identic (relativ = merge și la rădăcină, și în subfolder).
+
+---
+
+## 🚀 Publicare pe alt hosting (opțional)
 
 ### Opțiunea A — Netlify (recomandat, gratuit)
 1. Cont pe https://netlify.com → „Add new site" → „Deploy manually".
