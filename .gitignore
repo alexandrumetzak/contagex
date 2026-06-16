@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Tooling local (config previzualizare Claude)
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# Fișiere temporare de lucru
+assets/_*

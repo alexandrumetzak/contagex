@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a2240"/>
+      <stop offset="0.7" stop-color="#143a63"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="10%" r="60%">
+      <stop offset="0" stop-color="#c79a3a" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#c79a3a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <g transform="translate(90, 104)">
+    <g transform="scale(1.5)">
+      <rect x="0" y="0" width="64" height="64" rx="15" fill="#0e2f55" stroke="#e0b850" stroke-opacity="0.4" stroke-width="1.3"/>
+      <rect x="11" y="49.5" width="44" height="2.4" rx="1.2" fill="#e0b850" fill-opacity="0.35"/>
+      <g fill="#e9c46a">
+        <rect x="12" y="37" width="8" height="12" rx="2.5" fill-opacity="0.45"/>
+        <rect x="23" y="30" width="8" height="19" rx="2.5" fill-opacity="0.65"/>
+        <rect x="34" y="23" width="8" height="26" rx="2.5" fill-opacity="0.82"/>
+        <rect x="45" y="13" width="8" height="36" rx="2.5"/>
+      </g>
+      <g fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 41 L24 34 L35 27 L50 15"/>
+        <path d="M43 14.5 L50.5 14.5 L50.5 22"/>
+      </g>
+    </g>
+    <text x="122" y="40" font-family="'Sora','Segoe UI',sans-serif" font-size="36" font-weight="800" fill="#ffffff" letter-spacing="1">CONTAGEX SRL</text>
+    <text x="123" y="78" font-family="'Inter','Segoe UI',sans-serif" font-size="20" fill="#aebfd6" letter-spacing="1">Contabilitate &amp; Expertiză contabilă</text>
+  </g>
+
+  <text x="90" y="320" font-family="'Sora','Segoe UI',sans-serif" font-size="66" font-weight="800" fill="#ffffff">Contabilitate de încredere,</text>
+  <text x="90" y="396" font-family="'Sora','Segoe UI',sans-serif" font-size="66" font-weight="800" fill="#e0b850">22 de ani de experiență</text>
+
+  <text x="90" y="468" font-family="'Inter','Segoe UI',sans-serif" font-size="28" fill="#c7d6ea">Servicii contabile &amp; expertiză contabilă extrajudiciară</text>
+  <text x="90" y="508" font-family="'Inter','Segoe UI',sans-serif" font-size="28" fill="#c7d6ea">Huși · Vaslui · Bârlad · Iași</text>
+
+  <g transform="translate(90, 552)">
+    <rect width="420" height="48" rx="24" fill="#c79a3a"/>
+    <text x="210" y="31" text-anchor="middle" font-family="'Sora','Segoe UI',sans-serif" font-size="22" font-weight="700" fill="#0a2240">+40 743 085 632</text>
+  </g>
+</svg>

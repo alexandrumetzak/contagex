@@ -1,0 +1,14 @@
+{
+  "name": "CONTAGEX SRL — Contabilitate & Expertiză",
+  "short_name": "CONTAGEX",
+  "description": "Firmă de contabilitate din Huși cu peste 22 de ani de experiență. Servicii contabile și expertiză contabilă extrajudiciară.",
+  "lang": "ro-RO",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a2240",
+  "theme_color": "#0a2240",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/logo.png", "sizes": "520x140", "type": "image/png" }
+  ]
+}

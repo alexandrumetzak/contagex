@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="CONTAGEX">
+  <defs>
+    <linearGradient id="cxNavy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#143a63"/>
+      <stop offset="1" stop-color="#0a2240"/>
+    </linearGradient>
+    <linearGradient id="cxGold" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#c79a3a"/>
+      <stop offset="1" stop-color="#e9c46a"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="64" height="64" rx="15" fill="url(#cxNavy)"/>
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="14.25" fill="none" stroke="#e0b850" stroke-opacity="0.25" stroke-width="1.5"/>
+
+  <!-- baseline -->
+  <rect x="11" y="49.5" width="44" height="2.4" rx="1.2" fill="#e0b850" fill-opacity="0.35"/>
+
+  <!-- ascending bars (growth) -->
+  <g fill="url(#cxGold)">
+    <rect x="12"  y="37" width="8" height="12" rx="2.5" fill-opacity="0.45"/>
+    <rect x="23"  y="30" width="8" height="19" rx="2.5" fill-opacity="0.65"/>
+    <rect x="34"  y="23" width="8" height="26" rx="2.5" fill-opacity="0.82"/>
+    <rect x="45"  y="13" width="8" height="36" rx="2.5"/>
+  </g>
+
+  <!-- upward trend line + arrowhead -->
+  <g fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 41 L24 34 L35 27 L50 15"/>
+    <path d="M43 14.5 L50.5 14.5 L50.5 22"/>
+  </g>
+</svg>
