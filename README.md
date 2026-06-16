@@ -101,10 +101,14 @@ Formularul folosește **Formspree** ca să trimită mesajele pe e-mailul directo
 
 ## 🌐 Site live (GitHub Pages)
 
-Site-ul este publicat automat prin GitHub Pages:
+Site-ul este publicat automat prin GitHub Pages, pe domeniul propriu:
 
+- **Site live:** https://www.contagex.ro (HTTPS activ; `contagex.ro` redirectează spre `www`)
 - **Repo:** https://github.com/alexandrumetzak/contagex
-- **URL public (accesibil de pe orice dispozitiv):** https://alexandrumetzak.github.io/contagex/
+- **URL GitHub Pages (de rezervă):** https://alexandrumetzak.github.io/contagex/
+
+Domeniul este conectat prin fișierul `CNAME` (`www.contagex.ro`) + DNS la Romarg
+(4× A pe apex către IP-urile GitHub + CNAME `www` → `alexandrumetzak.github.io`).
 
 **Cum actualizezi site-ul live:** orice modificare urcată pe branch-ul `main`
 declanșează automat re-publicarea (în ~1-2 minute):
