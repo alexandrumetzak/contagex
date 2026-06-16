@@ -25,6 +25,25 @@
     });
   }
 
+  // ---- Logo -> scroll la începutul paginii ----
+  // Header-ul e sticky și are id="top", așa că ancora #top e mereu „în viewport"
+  // și browserul nu derulează. Pe homepage forțăm scroll real la top.
+  var brand = document.querySelector('.site-header .brand');
+  if (brand) {
+    var brandHref = brand.getAttribute('href') || '';
+    if (brandHref === '#top' || brandHref === '#') {
+      brand.addEventListener('click', function (e) {
+        e.preventDefault();
+        // Forma pozițională respectă scroll-behavior:smooth din CSS (animat în
+        // browser, instant la prefers-reduced-motion) și e compatibilă peste tot.
+        window.scrollTo(0, 0);
+        if (location.hash) {
+          history.replaceState(null, '', location.pathname + location.search);
+        }
+      });
+    }
+  }
+
   // ---- Formular de contact (Formspree, fără reîncărcarea paginii) ----
   var form = document.getElementById('contactForm');
   var status = document.getElementById('formStatus');
