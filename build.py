@@ -522,6 +522,209 @@ ARTICLES = [
 <p>Expertiza contabilă este realizată de un expert contabil cu experiență, capabil să analizeze situații complexe și să le prezinte într-o formă pe înțelesul tuturor. Dacă te confrunți cu o situație în care ai nevoie de o opinie financiară independentă, te putem ajuta.</p>
 """,
   },
+  {
+    "slug": "e-factura-ghid-firme",
+    "cat": "Fiscalitate", "date_iso": "2026-01-22", "date_ro": "22 ianuarie 2026",
+    "title": "e-Factura în România: ce este, pe cine obligă și cum te pregătești",
+    "desc": "Ghid despre sistemul național e-Factura (RO e-Factura): ce înseamnă facturarea electronică, ce firme sunt vizate și ce trebuie să pregătești pentru a fi conform.",
+    "excerpt": "Facturarea electronică prin sistemul național a devenit o realitate pentru tot mai multe firme. Iată ce înseamnă e-Factura și cum te pregătești.",
+    "body": """
+<p>Facturarea electronică prin sistemul național (RO e-Factura) a schimbat modul în care firmele din România emit și primesc facturi. Dacă te întrebi ce înseamnă mai exact și ce ai de făcut, iată reperele importante.</p>
+
+<h2>Ce este e-Factura</h2>
+<p>e-Factura este o factură emisă într-un format electronic standardizat (de tip XML) și transmisă printr-un sistem național gestionat de ANAF, prin Spațiul Privat Virtual (SPV). Spre deosebire de o factură PDF trimisă pe e-mail, factura electronică este structurată și validată automat în sistem.</p>
+
+<h2>Pe cine vizează</h2>
+<p>Sistemul a fost introdus și extins treptat — în relațiile dintre firme (B2B) și în relația cu instituțiile publice (B2G). Sfera de aplicare s-a lărgit în timp, astfel încât tot mai multe categorii de contribuabili au obligația de a utiliza e-Factura. Pentru că regulile și termenele se modifică, e important să verifici situația aplicabilă firmei tale.</p>
+
+<h2>Ce avantaje aduce</h2>
+<ul>
+  <li>Mai puține erori — datele sunt structurate și validate automat.</li>
+  <li>Transmitere rapidă și confirmare în sistem.</li>
+  <li>Reducerea hârtiei și arhivare electronică mai simplă.</li>
+  <li>Trasabilitate mai bună în relația cu ANAF.</li>
+</ul>
+
+<h2>Cum te pregătești</h2>
+<ul>
+  <li>Asigură-te că ai acces la SPV (necesită, de regulă, un certificat digital).</li>
+  <li>Folosește un program de facturare compatibil sau lasă contabilul să gestioneze emiterea și recepția.</li>
+  <li>Verifică periodic facturile primite în sistem, nu doar pe cele emise.</li>
+</ul>
+
+<blockquote>Cel mai simplu mod de a fi conform este să lași partea tehnică în grija contabilului, care urmărește termenele și regulile aplicabile firmei tale.</blockquote>
+""",
+  },
+  {
+    "slug": "saf-t-d406-ce-trebuie-sa-stii",
+    "cat": "Fiscalitate", "date_iso": "2026-02-12", "date_ro": "12 februarie 2026",
+    "title": "SAF-T (Declarația D406): ce este și ce firme trebuie să o depună",
+    "desc": "Ce înseamnă SAF-T și declarația informativă D406, ce date conține și ce firme sunt vizate — explicat pe înțelesul antreprenorilor.",
+    "excerpt": "SAF-T transmite ANAF-ului datele contabile într-un format standardizat. Iată ce presupune declarația D406 și pe cine vizează.",
+    "body": """
+<p>SAF-T este una dintre cele mai importante etape ale digitalizării relației firmelor cu ANAF. Pentru mulți antreprenori sună complicat, dar ideea de bază e simplă.</p>
+
+<h2>Ce este SAF-T</h2>
+<p>SAF-T (Standard Audit File for Tax) este un fișier standardizat care conține datele contabile și fiscale ale firmei, transmis către ANAF prin declarația informativă <strong>D406</strong>. Practic, evidența firmei este „tradusă" într-un format unitar, pe care autoritatea îl poate analiza rapid.</p>
+
+<h2>Ce date conține</h2>
+<ul>
+  <li>Informații despre conturi, jurnale și înregistrări contabile.</li>
+  <li>Facturi emise și primite.</li>
+  <li>Date despre stocuri și active (pentru anumite raportări).</li>
+  <li>Informații despre clienți și furnizori.</li>
+</ul>
+
+<h2>Ce firme sunt vizate</h2>
+<p>Obligația de a depune D406 a fost introdusă treptat, pe categorii de contribuabili — mai întâi contribuabilii mari, apoi cei mijlocii și mici. Calendarul exact depinde de încadrarea firmei, de aceea e bine să verifici situația specifică împreună cu contabilul.</p>
+
+<h2>De ce contează o contabilitate corectă</h2>
+<p>Fișierul SAF-T se generează din evidența contabilă. Dacă datele sunt corect și complet înregistrate, declarația se construiește fără probleme. Dacă nu, apar erori greu de corectat. De aceea, o evidență ordonată nu mai este doar o bună practică, ci o condiție pentru conformitate.</p>
+
+<blockquote>SAF-T nu este o sarcină pe care antreprenorul trebuie să o facă manual — un contabil cu un program adecvat se ocupă de generarea și transmiterea corectă a declarației.</blockquote>
+""",
+  },
+  {
+    "slug": "pfa-sau-srl-ce-alegi",
+    "cat": "Ghid practic", "date_iso": "2026-03-26", "date_ro": "26 martie 2026",
+    "title": "PFA sau SRL? Cum alegi forma potrivită pentru afacerea ta",
+    "desc": "Comparație clară între PFA și SRL: răspundere, fiscalitate, costuri și formalități, ca să alegi forma juridică potrivită pentru afacerea ta.",
+    "excerpt": "PFA sau SRL? Decizia influențează răspunderea, taxele și birocrația. Iată diferențele care contează cu adevărat.",
+    "body": """
+<p>Una dintre primele decizii când pornești o afacere este forma juridică: PFA sau SRL? Nu există un răspuns universal — depinde de tipul activității, de venituri și de planurile tale.</p>
+
+<h2>PFA — persoană fizică autorizată</h2>
+<p>Este simplu de înființat și de administrat, cu o contabilitate mai ușoară. Marele dezavantaj: răspunzi pentru datorii <strong>cu patrimoniul personal</strong>. Impozitarea se face pe venit, iar banii câștigați pot fi folosiți direct, fără pași suplimentari.</p>
+
+<h2>SRL — societate cu răspundere limitată</h2>
+<p>Este o persoană juridică separată de tine, ceea ce înseamnă <strong>răspundere limitată</strong> (în principiu, la capitalul social). Contabilitatea este în partidă dublă, mai complexă, iar banii se scot, de regulă, ca dividende. Oferă o imagine mai solidă în fața partenerilor și a băncilor.</p>
+
+<h2>Factorii care contează în decizie</h2>
+<ul>
+  <li><strong>Răspunderea:</strong> cât risc îți asumi cu patrimoniul personal.</li>
+  <li><strong>Nivelul veniturilor:</strong> de la un anumit prag, SRL devine adesea mai avantajos.</li>
+  <li><strong>Imaginea și partenerii:</strong> unele colaborări preferă o societate.</li>
+  <li><strong>Costurile de administrare:</strong> PFA e mai ieftin de ținut, SRL mai formal.</li>
+  <li><strong>Planurile de creștere:</strong> dacă vrei angajați și extindere, SRL e mai potrivit.</li>
+</ul>
+
+<blockquote>Alegerea optimă depinde de cifrele și obiectivele tale concrete. O scurtă discuție cu un contabil te ajută să eviți o decizie pe care ai regreta-o peste un an.</blockquote>
+""",
+  },
+  {
+    "slug": "calendar-fiscal-termene-firme",
+    "cat": "Ghid practic", "date_iso": "2026-04-30", "date_ro": "30 aprilie 2026",
+    "title": "Calendarul fiscal: principalele termene pe care nu trebuie să le ratezi",
+    "desc": "Ghid cu cele mai importante termene fiscale recurente pentru firme — declarații, plăți și raportări — ca să eviți penalitățile.",
+    "excerpt": "Termenele fiscale ratate înseamnă penalități. Iată principalele obligații recurente de care orice firmă trebuie să țină cont.",
+    "body": """
+<p>Una dintre cele mai frecvente cauze ale penalităților este, pur și simplu, uitarea unui termen. O firmă are mai multe obligații recurente, iar cunoașterea lor te ajută să stai liniștit.</p>
+
+<h2>Obligații lunare sau trimestriale</h2>
+<ul>
+  <li><strong>Declarațiile de TVA</strong> (pentru plătitorii de TVA) — lunar sau trimestrial, în funcție de încadrare.</li>
+  <li><strong>Declarația privind salariile și contribuțiile</strong> — pentru firmele cu angajați.</li>
+  <li><strong>Plata obligațiilor</strong> aferente, la termenele stabilite.</li>
+</ul>
+
+<h2>Obligații anuale</h2>
+<ul>
+  <li><strong>Situațiile financiare anuale</strong> (bilanțul) — depuse după închiderea exercițiului.</li>
+  <li><strong>Declarația privind impozitul</strong> aferent rezultatului anual.</li>
+  <li>Diverse raportări informative, în funcție de specificul firmei.</li>
+</ul>
+
+<h2>Raportări mai noi</h2>
+<p>La acestea se adaugă obligații precum <strong>e-Factura</strong> și <strong>SAF-T (D406)</strong>, care au propriile reguli și termene, în funcție de categoria firmei.</p>
+
+<blockquote>Termenele exacte depind de tipul firmei și se pot modifica de la an la an. Cel mai sigur este ca un contabil să țină acest calendar pentru tine și să te anunțe din timp.</blockquote>
+
+<p>Avantajul unei colaborări cu un contabil dedicat este tocmai acesta: nu mai trebuie să ții minte fiecare dată — primești la timp ce ai de semnat și de plătit.</p>
+""",
+  },
+  {
+    "slug": "tva-cand-devii-platitor",
+    "cat": "Fiscalitate", "date_iso": "2026-05-08", "date_ro": "8 mai 2026",
+    "title": "TVA: când devii plătitor și ce obligații ai",
+    "desc": "Ce este TVA, când o firmă devine plătitoare de TVA (prin plafon sau opțional) și ce obligații apar — explicat simplu pentru antreprenori.",
+    "excerpt": "Înregistrarea în scopuri de TVA aduce obligații noi. Iată când devii plătitor și ce presupune, pe înțelesul tuturor.",
+    "body": """
+<p>TVA (taxa pe valoarea adăugată) este una dintre temele care îi pun cel mai des în dificultate pe antreprenorii la început de drum. Iată ce trebuie să știi, simplu.</p>
+
+<h2>Când devii plătitor de TVA</h2>
+<p>O firmă devine plătitoare de TVA în două situații: fie <strong>depășește plafonul de scutire</strong> stabilit de lege (înregistrare obligatorie), fie <strong>optează voluntar</strong> pentru a fi plătitoare, chiar și sub plafon. Plafonul și condițiile se pot modifica, așa că merită verificate la zi.</p>
+
+<h2>Ce obligații apar</h2>
+<ul>
+  <li>Facturezi cu TVA și aplici cotele corecte.</li>
+  <li>Ții jurnalele de vânzări și de cumpărări.</li>
+  <li>Depui declarațiile specifice (de exemplu decontul de TVA) la termen.</li>
+  <li>Respecți regulile de facturare electronică acolo unde se aplică.</li>
+</ul>
+
+<h2>Avantaje și dezavantaje</h2>
+<p>Ca plătitor de TVA poți <strong>deduce TVA-ul</strong> de la achiziții, ceea ce e util dacă ai costuri mari cu marfă sau investiții. În schimb, apar mai multe obligații administrative, iar prețurile către clienții care nu sunt plătitori de TVA pot părea mai mari.</p>
+
+<blockquote>Decizia de a deveni plătitor de TVA (atunci când e opțională) depinde de structura afacerii tale. Un contabil te ajută să calculezi dacă te avantajează sau nu.</blockquote>
+""",
+  },
+  {
+    "slug": "cum-alegi-un-contabil-bun",
+    "cat": "Ghid practic", "date_iso": "2026-06-03", "date_ro": "3 iunie 2026",
+    "title": "Cum alegi un contabil bun pentru firma ta: 7 criterii esențiale",
+    "desc": "Ghid practic cu criteriile după care alegi un contabil sau o firmă de contabilitate de încredere — experiență, comunicare, conformitate și responsabilitate.",
+    "excerpt": "Un contabil bun îți protejează afacerea și liniștea. Iată criteriile după care merită să-l alegi.",
+    "body": """
+<p>Contabilul nu este doar omul care „depune niște declarații". Este partenerul care îți ține afacerea în regulă și te sfătuiește în decizii importante. Iată după ce criterii merită să-l alegi.</p>
+
+<h2>1. Experiență și stabilitate</h2>
+<p>O experiență solidă, de mulți ani, înseamnă că a întâlnit deja situații variate și știe cum să le rezolve. Caută un partener stabil, nu unul pe care îl schimbi în fiecare an.</p>
+
+<h2>2. La zi cu legislația</h2>
+<p>Fiscalitatea din România se schimbă des. Un contabil bun urmărește permanent modificările și le aplică din timp, ferindu-te de penalități.</p>
+
+<h2>3. Comunicare clară</h2>
+<p>Ai nevoie de cineva care îți explică lucrurile pe înțelesul tău, nu în jargon. Răspunsul prompt la întrebări face diferența.</p>
+
+<h2>4. Responsabilitate și termene</h2>
+<p>Respectarea termenelor legale și asumarea responsabilității sunt obligatorii. Întârzierile costă.</p>
+
+<h2>5. Confidențialitate</h2>
+<p>Datele financiare ale firmei tale trebuie tratate cu maximă discreție.</p>
+
+<h2>6. Relație directă</h2>
+<p>E un avantaj real să vorbești direct cu expertul care îți cunoaște afacerea, nu cu un operator diferit de fiecare dată.</p>
+
+<h2>7. Servicii complete</h2>
+<p>Un partener care acoperă contabilitate, salarizare, consultanță fiscală și chiar expertiză contabilă extrajudiciară îți rezolvă totul într-un singur loc.</p>
+
+<blockquote>Dacă regăsești aceste criterii, ai găsit un contabil pe care te poți baza pe termen lung — exact ce ne dorim să oferim la CONTAGEX.</blockquote>
+""",
+  },
+  {
+    "slug": "schimbari-fiscale-recente-retrospectiva",
+    "cat": "Fiscalitate", "date_iso": "2026-06-15", "date_ro": "15 iunie 2026",
+    "title": "Retrospectivă: cum s-a schimbat fiscalitatea în România în ultimii ani",
+    "desc": "O privire de ansamblu asupra principalelor schimbări fiscale din ultimii ani din România și de ce contează să lucrezi cu un contabil mereu la zi.",
+    "excerpt": "Fiscalitatea românească s-a schimbat des în ultimii ani. Iată o privire de ansamblu și de ce contează un contabil la zi.",
+    "body": """
+<p>Dacă există o constantă în fiscalitatea din România, aceea este... schimbarea. În ultimii ani, regulile s-au modificat des, iar firmele care nu au ținut pasul au plătit, uneori, prețul. Iată o privire de ansamblu.</p>
+
+<h2>Regimul microîntreprinderilor</h2>
+<p>Condițiile de încadrare ca microîntreprindere — praguri de cifră de afaceri, număr de salariați, domenii eligibile — au fost ajustate în repetate rânduri. Multe firme au fost nevoite să-și reanalizeze regimul fiscal de la un an la altul.</p>
+
+<h2>Digitalizarea relației cu ANAF</h2>
+<p>A fost introdus și extins sistemul <strong>e-Factura</strong>, care a schimbat modul de emitere a facturilor, și a fost implementat <strong>SAF-T (D406)</strong>, prin care datele contabile se transmit standardizat. Spațiul Privat Virtual a devenit canalul principal de comunicare cu autoritatea.</p>
+
+<h2>Plafoane, cote și obligații</h2>
+<p>Diverse plafoane și obligații de raportare au fost modificate, ceea ce a impus actualizări frecvente în modul de lucru al firmelor.</p>
+
+<h2>De ce contează un contabil la zi</h2>
+<p>Concluzia acestei retrospective este simplă: ritmul schimbărilor face aproape imposibil pentru un antreprenor să urmărească singur fiecare modificare. Un contabil care monitorizează permanent legislația transformă această complexitate în liniște.</p>
+
+<blockquote>La CONTAGEX, urmărirea constantă a schimbărilor legislative nu este un bonus, ci parte din serviciul de bază — pentru ca firma ta să fie mereu conformă, indiferent de cât de des se schimbă regulile.</blockquote>
+""",
+  },
 ]
 
 def article_card(a, R):
@@ -604,10 +807,13 @@ def render_article(a, others):
   </main>"""
     write(path, head(a["title"], a["desc"], path, jsonld, R, robots="index, follow") + header(R) + body + footer(R))
 
+def articles_by_date():
+    return sorted(ARTICLES, key=lambda x: x["date_iso"], reverse=True)
+
 def render_blog_index():
     R = "../"  # /blog/index.html este în /blog/
     path = "/blog/"
-    cards = "\n          ".join(article_card(a, R) for a in ARTICLES)
+    cards = "\n          ".join(article_card(a, R) for a in articles_by_date())
     jsonld = [
         {
             "@context": "https://schema.org", "@type": "Blog",
@@ -661,11 +867,30 @@ def render_blog_index():
         "/blog/", jsonld, R) + header(R) + body + footer(R))
 
 # ============================================================================
+def render_sitemap():
+    today = "2026-06-17"
+    rows = [(SITE + "/", today, "monthly", "1.0")]
+    for c in CITIES:
+        rows.append((SITE + "/" + c["slug"] + ".html", today, "monthly", "0.9"))
+    rows.append((SITE + "/blog/", today, "weekly", "0.8"))
+    for a in articles_by_date():
+        rows.append((SITE + "/blog/" + a["slug"] + ".html", a["date_iso"], "yearly", "0.7"))
+    items = "\n".join(
+        f"  <url>\n    <loc>{loc}</loc>\n    <lastmod>{lm}</lastmod>\n"
+        f"    <changefreq>{cf}</changefreq>\n    <priority>{pr}</priority>\n  </url>"
+        for loc, lm, cf, pr in rows)
+    xml = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+           + items + "\n</urlset>\n")
+    write("/sitemap.xml", xml)
+
 if __name__ == "__main__":
     for c in CITIES:
         render_city(c)
     render_blog_index()
     for a in ARTICLES:
-        others = [o for o in ARTICLES if o["slug"] != a["slug"]]
+        others = sorted([o for o in ARTICLES if o["slug"] != a["slug"]],
+                        key=lambda x: x["date_iso"], reverse=True)[:3]
         render_article(a, others)
+    render_sitemap()
     print("\nGata. Pagini generate.")
